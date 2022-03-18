@@ -1,0 +1,3 @@
+﻿  teacher.cpp
+E:\A-Programming_learning\c++\test\Computer_Room_Reservation_System\teacher.cpp(109,29): warning C4018: “<=”: 有符号/无符号不匹配
+  Computer_Room_Reservation_System.vcxproj -> E:\A-Programming_learning\c++\test\Computer_Room_Reservation_System\Debug\Computer_Room_Reservation_System.exe
